@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gedeon4ick/Pulse.git"
+    "url": "git+https://github.com/Gedeon4ick/pulse.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Gedeon4ick/Uber/issues"
+    "url": "https://github.com/Gedeon4ick/pulse.git/issues"
   },
-  "homepage": "https://github.com/Gedeon4ick/Uber#readme",
+  "homepage": "https://github.com/Gedeon4ick/pulse.git#readme",
   "devDependencies": {
     "browser-sync": "^2.27.10",
     "gulp": "^4.0.2",
