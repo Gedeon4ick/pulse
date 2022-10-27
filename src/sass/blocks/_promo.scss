@@ -16,4 +16,45 @@
         line-height: 42px;
         text-transform: uppercase;
     }
+    &__subheader {
+        margin-top: 17px;
+        color: #FFFFFF;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 24px;
+        text-transform: uppercase;
+    }
+    &__icons {
+        margin-top: 60px;
+        display: flex;
+        width: 425px;
+        justify-content: space-between;
+    }
+    &__icon {
+        width: 106px;
+        text-align: center;
+        color: #FFFFFF;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 14px;
+        font-style: normal;
+        img {
+            display: block;
+            margin: 0 auto;
+            margin-bottom: 20px;
+            
+        }
+    }
+    &__link {
+        margin-top: 18px;
+        color: #FFFFFF;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 25px;
+        a {
+            color: #FFFFFF;
+            text-transform: uppercase;
+            text-decoration: underline;
+        }
+    }
 } 
