@@ -11,6 +11,7 @@
 }
 @media (max-width: 425px) {
     .benifist {
+        min-height: 100vh;
         padding: 25px;
         &__title{
             font-size: 25px;
