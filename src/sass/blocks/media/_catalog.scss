@@ -1,0 +1,28 @@
+@media (max-width: 1024px) {
+    .catalog__content{
+        justify-content: center;
+    }
+    
+}
+
+@media (max-width: 768px) {
+    .catalog__tabs{
+        .catalog__tab{
+            width: 125px;
+            height: 40px;
+            line-height: 38px;
+            font-size: 13px;
+        }
+    }
+        
+}
+@media (max-width: 320px) {
+    .catalog__tabs{
+        .catalog__tab{
+            width: 76px;
+            height: 32px;
+            line-height: 31px;
+            font-size: 6px;
+        }
+    }
+}
