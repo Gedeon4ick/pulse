@@ -1,0 +1,25 @@
+@media (max-width: 425px) {
+    .modal{
+        width: 280px;
+        .feed-form{
+            width: 200px;
+        }
+        &__close{
+            right: 10px;
+            top: 10px;
+        }
+    }
+}
+
+@media (max-width:500px) {
+    .modal{
+        width: 280px;
+        .feed-form{
+            width: 200px;
+        }
+        &__close{
+            right: 10px;
+            top: 10px;
+        }
+    }
+}
