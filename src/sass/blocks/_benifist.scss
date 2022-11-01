@@ -25,6 +25,13 @@
         font-size: 14px;
         line-height: 18px;
         text-align: center;
+        &_animation{
+            animation-name: heartbeat;
+            animation-duration: 2s;
+            animation-timing-function: ease;
+            animation-iteration-count: infinite;
+        }
+    }
         span {
             text-align: center;
             margin-top: 35px;
@@ -36,7 +43,7 @@
             margin: 0 auto;
             margin-bottom: 35px;
         }
-    }
+    
     a {
         color:$main-color;
     }
